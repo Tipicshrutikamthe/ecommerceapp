@@ -1,0 +1,42 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "price": 19.99,
+        "image": "https://images.pexels.com/photos/459653/pexels-photo-459653.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 2,
+        "name": "ios mobile gadget",
+        "price": 29.99,
+        "image": "https://cdn.pixabay.com/photo/2015/12/13/16/02/ios-1091302_1280.jpg"
+      },
+      {
+        "id": 2,
+        "name": "mouse",
+        "price": 29.99,
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "id": 2,
+        "name": "keyboard",
+        "price": 29.99,
+        "image":"https://cdn.pixabay.com/photo/2015/09/09/21/38/keyboard-933568_1280.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Earphone",
+        "price": 29.99,
+        "image": "https://cdn.pixabay.com/photo/2018/09/07/23/58/headphone-3661771_1280.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Tablet",
+        "price": 29.99,
+        "image": "https://cdn.pixabay.com/photo/2015/02/02/15/28/bar-621033_1280.jpg"
+      }
+      
+    ]
+  }
+  
